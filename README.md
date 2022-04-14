@@ -1,2 +1,2 @@
-# fizz-buzz-unit7-anagrams
- 
+# Anagrams
+*The task is to provide all the anagrams for `word` in any "/anagrams/`word`" url*
